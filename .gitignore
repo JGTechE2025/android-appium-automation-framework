@@ -1,0 +1,31 @@
+# PyCharm / IntelliJ
+.idea/
+*.iml
+*.xml
+.name
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache & build
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+
+# Test outputs & Environment
+allure-results/
+allure-report/
+logs/
+screenshots/
+.env
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# APKs (Keep test app if needed for demo)
+*.apk

@@ -1,6 +1,7 @@
 # Android 自動化測試作品集
 
 > 作者：Joe｜從手動到自動化：Android 測試框架學習與技術沉澱
+
 > 技術棧：Python · Appium · pytest · Allure · UiAutomator2 · Android Studio
 
 ---
